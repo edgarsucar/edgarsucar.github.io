@@ -365,6 +365,10 @@ footer.sticky-bottom {
 
 // Publications
 
+.publication-img {
+    width: 12.0rem;
+}
+
 .publications {
   margin-top: 2rem;
   h1 {
@@ -381,11 +385,11 @@ footer.sticky-bottom {
     }
   }
   h2.year {
-    color: $grey-color-light;
-    border-top: 1px solid $grey-color-light;
+    color: $grey-color;
+    border-bottom: 1px solid $grey-color-light;
     padding-top: 1rem;
     margin-top: 2rem;
-    margin-bottom: -2rem;
+    margin-bottom: 2rem;
     text-align: right;
   }
   ol.bibliography {

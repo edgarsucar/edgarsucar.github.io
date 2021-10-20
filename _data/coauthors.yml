@@ -1,18 +1,20 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Davison":
+  url: https://www.doc.ic.ac.uk/~ajd/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Ortiz":
+  url: http://joeaortiz.github.io
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Wada":
+  url: https://www.wkentaro.com
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Liu":
+  url: https://shikun.io
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Evans":
+  url: http://www.talfanevans.co.uk
+
+"James":
+  url: http://stepjam.github.io
+
+"Hayet":
+  url: http://aplicaciones.cimat.mx/Personal/jbhayet/home

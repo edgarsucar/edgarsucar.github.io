@@ -13,6 +13,6 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a PhD student in the Dyson Robotics Lab at Imperial College London, under the supervision of <a href="https://www.doc.ic.ac.uk/~ajd/">Prof. Andrew Davison</a>. My research centers on combining neural scene representations with SLAM, for creating the next generation of scene undertanding systems that produce effcient and semantically meaningful 3D maps, making smart interaction such as robotic manipulation possible. I like builduing practical real-time systems which work in the real world.
+I am a PhD student in the Dyson Robotics Lab at Imperial College London, under the supervision of <a href="https://www.doc.ic.ac.uk/~ajd/">Prof. Andrew Davison</a>. I am generally interested in developing methods for 3D scene understanding that enable machines to have meaningful interactions with their environment. I like building practical real-time systems which work in the real world.
 
-<strong>Research Interests:</strong> SLAM, Computer Vision, Neural Scene Representations, Robotics
+<strong>Research Interests:</strong> Computer Vision, SLAM, Neural Scene Representations, Unsupervised/continual Learning, Robotics

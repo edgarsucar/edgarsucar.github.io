@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <strong>PhD student</strong> <br><a href="http://www.imperial.ac.uk/dyson-robotics-lab">Dyson Robotics Lab</a><br><a href="http://www.imperial.ac.uk">Imperial College London</a> 
+description: <strong>Postdoc at Oxford University</strong> <br><a href="http://www.imperial.ac.uk/dyson-robotics-lab">Dyson Robotics Lab</a><br><a href="http://www.imperial.ac.uk">Imperial College London</a> 
 
 profile:
   align: right

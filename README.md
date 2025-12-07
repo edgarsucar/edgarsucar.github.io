@@ -1,0 +1,1 @@
+This is the source code to Edgar Sucar's public academic website: https://edgarsucar.github.io.
